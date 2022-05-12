@@ -8,7 +8,8 @@ Python notebooks for the "Data Mining" course, Master Degree ("Laurea Magistrale
 > * Lecture 4 - Anomaly Detection
 > * Lecture 5 - Ensemble Learning
 > * Lecture 6 - Association Rules
-> * Lecture 7 - you will find out soon :)
+> * Lecture 7 - Clustering
+> * Lecture 8 - you will find out soon :)
 
 
 # Acknowledgements
