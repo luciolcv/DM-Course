@@ -9,7 +9,7 @@ Python notebooks for the "Data Mining" course, Master Degree ("Laurea Magistrale
 > * Lecture 5 - Ensemble Learning
 > * Lecture 6 - Association Rules
 > * Lecture 7 - Clustering
-> * Lecture 8 - you will find out soon :)
+> * Lecture 8 - Diagnostic and Debugging
 
 
 # Acknowledgements
